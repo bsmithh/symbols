@@ -7,13 +7,22 @@ var lower = function(str) {
 }
 
 var emoji = function(str) {
-	return "<3"; // U+2764 = ❤️
+	return "<3";
 }
+
+var emoji2 = function(str) {
+	return ":)"; 
+}
+
+var emoji3 = function(str2) {
+	return ";)";
+}
+
 
 module.exports = {
 	NewName: NewName,
 	lower: lower,
 	emoji: emoji,
+	emoji2: emoji2,
+	emoji3: emoji3
 };
-
-module.exports = require('./lib/parse');
