@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bsmithh/symbols#readme",
   "dependencies": {
-    "emojify.js": "^1.1.0"
+    "emojify.js": "^1.1.0",
+    "jsdom": "^10.0.0"
   }
 }
