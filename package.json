@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bsmithh/symbols/issues"
   },
-  "homepage": "https://github.com/bsmithh/symbols#readme"
+  "homepage": "https://github.com/bsmithh/symbols#readme",
+  "dependencies": {
+    "emojify.js": "^1.1.0"
+  }
 }
